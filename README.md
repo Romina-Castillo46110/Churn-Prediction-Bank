@@ -36,14 +36,14 @@ Identificar los factores que más influyen en la decisión de un cliente de aban
 - Gráficos de dispersión diferenciando por clase (`Exited`)
 
 ---
-
+'''
 ## 📁 Estructura del repositorio
 
 📦 churn-prediction/
 ┣ 📜 ProyectoDSParteI_Castillo.ipynb ← Notebook con el análisis
 ┣ 📜 README.md ← Este archivo
 ┗ 📜 Churn_Modelling.csv ← Dataset original
-
+'''
 
 ---
 
